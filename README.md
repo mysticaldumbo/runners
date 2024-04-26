@@ -10,3 +10,5 @@
 7. select it and click 'always'
 8. now double click your source file. it will create the needed requirements (example pdb or class files) so you may need to run it twice the first time. but after that, its all good.
 9. enjoy
+
+for executable versions (with icons for files) download [here](https://bandawan.itch.io/runners)
