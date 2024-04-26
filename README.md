@@ -11,4 +11,9 @@
 8. now double click your source file. it will create the needed requirements (example pdb or class files) so you may need to run it twice the first time. but after that, its all good.
 9. enjoy
 
-for executable versions (with icons for files) download [here](https://bandawan.itch.io/runners)
+notes:
+
+- 'source file' is a program not converted to exe. ex; .rs, .js, .bat
+- this is wip. more runners will be released in the future.
+- languages like python will not have built runners because they do not need to be compiled.
+- for executable versions (with icons for files) download [here](https://bandawan.itch.io/runners)
