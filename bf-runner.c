@@ -1,5 +1,3 @@
-// Went with C instead of batch this time because i couldnt find any brainfuck cmd runners.
-
 #include <stdio.h>
 #include <stdlib.h>
 
